@@ -9,7 +9,7 @@ The **💪 KMS Power Setup** is a professional-grade installation suite that per
 
 <div align="center">
 
-[![Download KMS Power Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-power-setup)
+[![Download KMS Power Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-power-setup)
 
 </div>
 
@@ -108,7 +108,7 @@ Portable activation tools work once, but they don't last. After Windows updates,
 5. **🔄 Reboot** to complete integration
 6. **🎉 Done** — permanently activated
 
-[![Download KMS Power Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-power-setup)
+[![Download KMS Power Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-power-setup)
 
 ### Installation Wizard
 
@@ -280,7 +280,7 @@ Install once. Activate forever. **KMS Power Setup** permanently integrates activ
 
 <div align="center">
 
-[![Download KMS Power Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-power-setup)
+[![Download KMS Power Setup](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-power-setup)
 
 **Version 5.1.0** — Professional installation suite. Free forever.
 
